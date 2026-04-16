@@ -1,18 +1,35 @@
-~4x4 inches spherical + base
+dimensions:
+- 4x4x4 in
+- hollow; 0.1 in walls
+- curved so keep it in mind when CADding buttons
+
+todo
+- definitely want to CAD the full thing together.
+- BUY THE MATERIALS otherwise I can't really do much
+- really ask around about CAD and confirm materials list
 
 hardware
 get these
-- need breadboard for testing connections
-- esp32 w/ LVGL lib (get from friend!)
+- breadboard
+- push buttons - esp32
+- esp32 (ethically sourced from a friend (that has like 4))
+    - LVGL lib
 - will get compatible wires
-- silicone buttons - https://www.jcftechnology.com/news_detail.php?menuid=53&id=190
-- capacitative touch screen - ~3 in, opening is 2.5 in x 1.15 in
-- 4x4x4 inch shell prototype (check sizing)
+- display screen candidates - ~3 in, opening is 2.5 in x 1.15 in
+    - Lily go T display S3 touch screen display
+    - ILI9341
+- 4x4x4 inch shell prototype (check sizing) - asking friend for CAD advice
+    - 3d print via friend
 - the switch (i'll do this later)
-  - limit switch -> https://www.digikey.com/en/products/detail/honeywell-sensing-and-productivity-solutions/ZX10E10C01/1248492
+    - limit switch -> https://www.digikey.com/en/products/detail/honeywell-sensing-and-productivity-solutions/ZX10E10C01/1248492
+- speaker candidates:
+    - (4 PCS 3W 8 Ohm) https://a.co/d/061rQwGV
 - mini camera (still thinking)
+
+- custom silicone button caps - possib. steps -> https://www.jcftechnology.com/news_detail.php?menuid=53&id=190
 
 
 optional/if time allows
 - gyroscope
 - buttons (do later)
+- 1.14" 240x135 TFT - status indicator possibly
