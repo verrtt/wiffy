@@ -1,17 +1,16 @@
-i wanna make him soft
-like really soft
-like squishyy pen holder type of soft..
+~4x4 inches spherical + base
 
-shell is 3d printed or soft, can do that later
-dimensions? roughly 4x4 inches sphereical + a base (grooves) for it to sit on
-
-hardwaree
+hardware
 get these
+- need breadboard for testing connections
+- esp32 w/ LVGL lib (get from friend!)
+- will get compatible wires
+- silicone buttons - https://www.jcftechnology.com/news_detail.php?menuid=53&id=190
 - capacitative touch screen - ~3 in, opening is 2.5 in x 1.15 in
-- 4x4x4 inch shell prototype (see how it fits + basic dimensions)
-- the switch.
+- 4x4x4 inch shell prototype (check sizing)
+- the switch (i'll do this later)
   - limit switch -> https://www.digikey.com/en/products/detail/honeywell-sensing-and-productivity-solutions/ZX10E10C01/1248492
-- mini camera
+- mini camera (still thinking)
 
 
 optional/if time allows
