@@ -7,14 +7,13 @@ dimensions? roughly 4x4 inches sphereical + a base (grooves) for it to sit on
 
 hardwaree
 get these
-- 2.4 inch TFT - rasp pi
-- buttons for customization
+- capacitative touch screen - ~3 in, opening is 2.5 in x 1.15 in
 - 4x4x4 inch shell prototype (see how it fits + basic dimensions)
+- the switch.
+  - limit switch -> https://www.digikey.com/en/products/detail/honeywell-sensing-and-productivity-solutions/ZX10E10C01/1248492
 - mini camera
 
-- make a way to get power source
 
 optional/if time allows
-- i really want squishy stuff
-- gyroscope if you realllyyyyy want to
-
+- gyroscope
+- buttons (do later)
