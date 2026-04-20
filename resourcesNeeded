@@ -1,25 +1,25 @@
 dimensions:
 - 4x4x4 in
+- opening is 2.501" x 1.3"
 - hollow; 0.1" walls
 - curved so keep it in mind when CADding buttons
+- custom push button caps
 
-hardware
-get these
-- LVGL lib
-- display screen candidates - ~3.5", opening is 2.501" x 1.3"
-    - ILI9341 3.2" - https://www.aliexpress.us/item/2251832661313467.html ($12.99) (top pick rn, probably gonna buy it and wait for it to ship)
-    - NX4832F035 3.5" - https://nextion.tech/datasheets/nx4832f035/ ($29.99)
-    - Lily go T display S3 touch screen display (BUILT-IN ESP) (~$9.99)
-- 3d shell prototype
-- speaker candidates:
-    - (4 PCS 3W 8 Ohm) https://a.co/d/061rQwGV
-- mini camera (still thinking)
-- the switch (i'll do this later)
-    - limit switch -> https://www.digikey.com/en/products/detail/honeywell-sensing-and-productivity-solutions/ZX10E10C01/1248492
+list
+- linear potentiometer -> (https://a.co/d/06MW8rWL) ($9.69)
+- 4 PCS 3W 8 Ohm speakers - (https://a.co/d/061rQwGV) ($9.99)
+- ESP32-CAM Module OV2640 (https://a.co/d/0b28iFtD) ($9.99)
+- push buttons: yellow square (~$10.00)
+- ILI9341 3.2" - (https://a.co/d/04iSfBOj) ($16.99)
+- filament: pla (protoyping), petg (final)
 
-- custom silicone button caps - possib. steps -> https://www.jcftechnology.com/news_detail.php?menuid=53&id=190
-
-optional/if time allows
+optional
 - gyroscope
-- buttons (do later)
 - 1.14" 240x135 TFT - status indicator possibly
+
+
+
+
+deprecated items on list:
+    - NX4832F035 3.5" - https://nextion.tech/datasheets/nx4832f035/ ($29.99)
+    - Lily go T display S3 touch screen display (mb) (~$9.99)
