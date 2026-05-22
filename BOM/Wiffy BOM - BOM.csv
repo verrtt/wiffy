@@ -1,0 +1,19 @@
+Item,Component name,Description/Specs,Quantity,Link,Package,Manufacturer,Manufacturer Part #,Price (USD)
+1,Linear Potentiometer,"45mm, B10K Ohm",1,potentiometer,,,,$9.69
+2,8Ohm Speakers,3W,1,speakers,,,,$9.99
+3,ESP32-CAM,Module OV2640,1,cam,,,,$9.99
+4,Push Buttons,Yellow Square,3,,,,,x.xx
+5,ILI9341,"Hosyond 3.2"" TFT LCD",1,tft,,,,$16.99
+6,LD2410,Human presence sensing module,1,presence module,,,,$9.99
+7,ESP32-WROOM-32,Devboard,1,esp32,,,,$5.50
+8,18650 Li-ion battery,Rechargeable battery,1,battery,,,,$11.72
+9,22 AWG Hookup Wires,Wires,,wires,,,,$15.99
+10,TP4056 Module,Charging board,1,charging module,,,,$1.30
+11,PCB board,solderable,1,pcb boards,,,,$7.99
+12,Soldering kit,,1,soldering kit,,,,$13.99
+13,,,,,,,,
+14,,,,,,,,
+15,,,,,,,,
+16,,,,,,,,
+17,,,,,,,,
+18,,,,,,,,$113.14
